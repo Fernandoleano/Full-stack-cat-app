@@ -1,0 +1,21 @@
+{
+    "pets": [{
+        "id": "1",
+        "name": "Pretty Kitty",
+        "img": "https://cdn.pixabay.com/photo/2016/03/28/12/35/cat-1285634_960_720.png",
+        "breed": "Bombay Cat",
+        "description": "Dominant and aggressive to other cats. Will probably eat you in your sleep. Very cute tho."
+    }, {
+        "id": "2",
+        "name": "Pretty Kitty 2",
+        "img": "https://cdn.pixabay.com/photo/2016/03/28/12/35/cat-1285634_960_720.png",
+        "breed": "Bombay Cat 2",
+        "description": "Cool cat 2"
+    }, {
+        "id": "3",
+        "name": "Pretty Kitty 3",
+        "img": "https://cdn.pixabay.com/photo/2016/03/28/12/35/cat-1285634_960_720.png",
+        "breed": "Bombay Cat 3",
+        "description": "cool cat 3"
+    }]
+}
